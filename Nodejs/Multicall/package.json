@@ -10,6 +10,6 @@
   "author": "Nattapon Nimakul <tot@kulap.io> (kulap.io)",
   "license": "Private",
   "dependencies": {
-    "ethers": "^5.0.5"
+    "ethers": "^5.7.2"
   }
 }
