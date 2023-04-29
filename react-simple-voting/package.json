@@ -17,7 +17,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3",
     "tailwindcss": "1.7.6",
-    "typescript": "~3.7.2"
+    "typescript": "~3.9.10"
   },
   "scripts": {
     "build:tailwind": "tailwindcss build src/tailwind.css -o src/tailwind.output.css",
