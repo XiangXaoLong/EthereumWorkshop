@@ -12,12 +12,12 @@
   "license": "Private",
   "dependencies": {
     "abi-decoder": "^2.2.2",
-    "elliptic": "^6.5.2",
+    "elliptic": "^6.6.0",
     "ethereum-tx-decoder": "^3.0.0",
     "ethereumjs-tx": "^2.1.1",
-    "ethereumjs-util": "^6.1.0",
+    "ethereumjs-util": "^7.0.2",
     "safe-buffer": "^5.2.0",
     "secp256k1": "^4.0.0",
-    "web3": "^1.2.1"
+    "web3": "^4.0.1"
   }
 }
